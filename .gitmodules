@@ -1,0 +1,3 @@
+[submodule "swarm_robot_core"]
+	path = swarm_robot_core
+	url = https://github.com/ARM-TEC-20-02-RPI-SWARM/swarm_robot_core.git
